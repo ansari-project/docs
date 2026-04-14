@@ -12,5 +12,5 @@ In the rest of this documentation, we will cover:
 
 There's also a section on [additional material](material.md) about Ansari. 
 
-If you have any suggestions for the documentation, please send e-mail to [feedback@ansari.chat](mailto:feedback@ansari.chat). 
+If you have any suggestions for the documentation, please send e-mail to [feedback@askansari.ai](mailto:feedback@askansari.ai). 
 

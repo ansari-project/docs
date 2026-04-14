@@ -10,7 +10,7 @@ Waleed Kadous ([site](http://walee.dk/home), [LinkedIn](https://www.linkedin.com
 
 ## Where do I send my thoughts, errors, feedback about Ansari? 
 
-Please send to [feedback@ansari.chat]("mailto:feedback@ansari.chat"). It is checked daily. 
+Please send to [feedback@askansari.ai]("mailto:feedback@askansari.ai"). It is checked daily. 
 
 ## Is there a particular Large Language Model Ansari uses? 
 

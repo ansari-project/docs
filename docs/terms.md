@@ -44,4 +44,4 @@ We reserve the right to update these Terms of Service at any time. We will notif
 
 ## Contact Us
 
-If you have any questions about these Terms of Service, please contact us at feedback@ansari.chat.
+If you have any questions about these Terms of Service, please contact us at feedback@askansari.ai.

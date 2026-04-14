@@ -24,3 +24,120 @@ a:hover {
 .wy-nav-content-wrap {
     background-color: white;
 }
+
+/* Newsletter form */
+#newsletter-form-container {
+    max-width: 480px;
+    margin-top: 1.5em;
+}
+
+#newsletter-form .form-group {
+    margin-bottom: 1em;
+}
+
+#newsletter-form label {
+    display: block;
+    margin-bottom: 0.3em;
+    font-weight: bold;
+}
+
+#newsletter-form label .required {
+    color: #c00;
+}
+
+#newsletter-form input[type="email"],
+#newsletter-form input[type="text"] {
+    width: 100%;
+    padding: 8px 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 1em;
+    box-sizing: border-box;
+}
+
+#newsletter-submit {
+    background-color: #2E7D32;
+    color: #fff;
+    border: none;
+    padding: 10px 24px;
+    font-size: 1em;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#newsletter-submit:hover {
+    background-color: #1B5E20;
+}
+
+#newsletter-submit:disabled {
+    opacity: 0.6;
+    cursor: default;
+}
+
+.newsletter-success {
+    margin-top: 1em;
+    padding: 12px;
+    background-color: #e8f5e9;
+    color: #1B5E20;
+    border: 1px solid #a5d6a7;
+    border-radius: 3px;
+}
+
+.newsletter-error {
+    margin-top: 1em;
+    padding: 12px;
+    background-color: #ffebee;
+    color: #c62828;
+    border: 1px solid #ef9a9a;
+    border-radius: 3px;
+}
+
+/* Footer newsletter */
+#footer-newsletter {
+    border-top: 1px solid #e0e0e0;
+    padding: 1.2em 0 0.5em;
+    margin: 1.5em 0 0;
+}
+
+#footer-newsletter h4 {
+    margin: 0 0 0.5em;
+    font-size: 0.95em;
+}
+
+#footer-newsletter-form {
+    display: flex;
+    gap: 8px;
+    max-width: 420px;
+}
+
+#footer-nl-email {
+    flex: 1;
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 0.9em;
+}
+
+#footer-newsletter-form button {
+    background-color: #2E7D32;
+    color: #fff;
+    border: none;
+    padding: 6px 16px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 0.9em;
+}
+
+#footer-newsletter-form button:hover {
+    background-color: #1B5E20;
+}
+
+#footer-newsletter-form button:disabled {
+    opacity: 0.6;
+    cursor: default;
+}
+
+#footer-nl-message {
+    margin-top: 0.5em;
+    font-size: 0.9em;
+}

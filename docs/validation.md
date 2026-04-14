@@ -41,7 +41,7 @@ We also compared Ansari with vanilla GPT-4. We found there was not a significant
 
 ## Dar ul Qasim examinations
 
-[Darul Qasim](https://darulqasim.org/) is an institute based in Chicago focused on providing authentic Islamic education. Ansari took two final exams to two courses (with minor modifications to the test to accommodate formating and how AIs process data). We can not share these exams or the modified version publicly, but please contact us at [feedback@ansari.chat](mailto:feedback@ansari.chat) and we will work with Darul Qasim to give individuals access. 
+[Darul Qasim](https://darulqasim.org/) is an institute based in Chicago focused on providing authentic Islamic education. Ansari took two final exams to two courses (with minor modifications to the test to accommodate formating and how AIs process data). We can not share these exams or the modified version publicly, but please contact us at [feedback@askansari.ai](mailto:feedback@askansari.ai) and we will work with Darul Qasim to give individuals access. 
 
 Note that Ansari had no access to the course materials. We did not index the course materials, and so there were certain questions (e.g. "What tafseers did I recommend in class?") that Ansari simply could not answer. These are "zero shot" answers. 
 

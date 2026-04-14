@@ -3,7 +3,7 @@
 ## Build Commands
 - Build docs: `./build_docs.sh` (Builds to $PWD/build/docs)
 - Serve docs locally: `mkdocs serve`
-- Deploy docs: `./deploy_docs.sh` (Deploys to GCS bucket docs.ansari.chat)
+- Deploy docs: `./deploy_docs.sh` (Deploys to GCS bucket docs.askansari.ai)
 
 ## Documentation Style Guidelines
 - Use markdown (.md) files for all documentation
@@ -20,4 +20,4 @@
 - Build scripts in project root
 
 ## Contact
-- For questions: feedback@ansari.chat
+- For questions: feedback@askansari.ai

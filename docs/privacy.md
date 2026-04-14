@@ -40,7 +40,7 @@ You have the following choices regarding your information:
 
 - Access and Update: You can access and update your information in your account settings.
 - Deletion: You can delete your account at any time. Upon deletion of your account, we will delete your information, except for any information we are required to retain by law.
-- If you used a guest account and accidentally shared information, you can send a request to feedback@ansari.chat to request its removal. 
+- If you used a guest account and accidentally shared information, you can send a request to feedback@askansari.ai to request its removal. 
 
 ## Children's Privacy
 
@@ -52,4 +52,4 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at feedback@ansari.chat.
+If you have any questions about this Privacy Policy, please contact us at feedback@askansari.ai.
